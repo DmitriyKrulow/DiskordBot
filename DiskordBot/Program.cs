@@ -28,7 +28,7 @@ namespace DiskordBot
 
             //  You can assign your bot token to a string, and pass that in to connect.
             //  This is, however, insecure, particularly if you plan to have your code hosted in a public repository.
-            var token = "OTkxMzg1NjM5MzI3MTEzMjM3.GfERqh.NgiHlFyb96kqKZS_NITVMAysR682rAFjAOkmRU";
+            var token = "";
 
             // Some alternative options would be to keep your token in an Environment Variable or a standalone file.
             // var token = Environment.GetEnvironmentVariable("NameOfYourEnvironmentVariable");
